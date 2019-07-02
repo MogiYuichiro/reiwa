@@ -1,5 +1,5 @@
 require "reiwa/version"
 
 module Reiwa
-  # Your code goes here...
+  puts '令和'
 end
